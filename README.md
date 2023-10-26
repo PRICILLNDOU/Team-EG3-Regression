@@ -11,7 +11,8 @@ Team Members:
 Destiny Owobu
 Edidiong Udofia
 Tony Onyeka
-Pricilla vhafuniwap@gmail.comhafuniwap
+Pricilla Vhafuniwap
+
 Dataset
 Data Source: The dataset contains historical data related to energy generation and weather features for various cities in Spain.
 Data Columns
