@@ -10,7 +10,7 @@ Project Manager: Mashako Justice Manyelo
 Team Members:
 Destiny Owobu
 Edidiong Udofia
-Tony Onyeka
+Anthonia Omonayin
 Pricilla Vhafuniwap
 
 Dataset
