@@ -115,5 +115,35 @@ Conclusion
 
 The successful modeling of the daily energy shortfall in Spain will provide valuable insights for the government's renewable energy infrastructure investments, contributing to a more sustainable and reliable energy supply for the citizens.
 
-For any inquiries or updates related to this project, please contact the project manager, Mashako Justice Manyelo, at manyelojustice@gmail.com.
+
+## Contact Information
+
+For any inquiries or updates related to this project, please feel free to reach out to the following team members:
+
+- **Project Manager:** Mashako Justice Manyelo
+  - Email: [manyelojustice@gmail.com](mailto:manyelojustice@gmail.com)
+
+- **Team Leader:** Christelle Coetzee
+  - Email: [christellecoetzeepp@gmail.com](mailto:christellecoetzeepp@gmail.com)
+
+- **Team Members:**
+  1. Destiny Owobu
+     - Email: [apogeeden@gmail.com](mailto:apogeeden@gmail.com)
+
+  2. Edidiong Udofia
+     - Email: [edidiongudofia5050@gmail.com](mailto:edidiongudofia5050@gmail.com)
+
+  3. Tony Onyeka
+     - Email: [toniaomonayin@gmail.com](mailto:toniaomonayin@gmail.com)
+
+  4. Pricilla Vhafuniwap
+     - Email: [vhafuniwap@gmail.com](mailto:vhafuniwap@gmail.com)
+
+### Trello Board
+You can also follow the progress of this project on our Trello board:
+- [Trello Board](https://trello.com/invite/b/obu1pWbR/ATTI28571aed72d8beface33cefbef752fb32623C995/regressionsprint2307acdsteameg3)
+
+Feel free to contact us if you have any questions, suggestions, or updates related to this project.
+
+
 
